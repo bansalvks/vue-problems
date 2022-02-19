@@ -8,7 +8,7 @@
 ## Steps to run the Vue Project
 
 1. Go to Desktop and open the Problem 1 Folder in VS Code
-2. Launch the VS code app then press **Ctrl+`** to open a terminal.
+2. Launch the VS code app then press ** Ctrl+\` ** to open a terminal.
 3. Run `npm install`
 4. Run `npm run serve`
 5. The above command will open a new tab in the default browser. If not then open the http://localhost:8080/ in the chrome.
